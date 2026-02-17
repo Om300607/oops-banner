@@ -1,6 +1,6 @@
 class op1
 {
     public static void main(String[] args) {
-        System.out.println("OOPS");
+        System.out.println("OOPSss");
     }
 }
